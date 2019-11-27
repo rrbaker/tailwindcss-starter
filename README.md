@@ -1,6 +1,6 @@
 # tailwindcss-starter
 
- Starter files for a new Tailwind CSS project, based on (their tutorial screencasts)[https://tailwindcss.com/course/setting-up-tailwind-and-postcss]. This also includes the last step in their tutorial: support for PurgeCSS as well when building for production.
+ Starter files for a new Tailwind CSS project, based on [their tutorial screencasts](https://tailwindcss.com/course/setting-up-tailwind-and-postcss). This also includes the last step in their tutorial: support for PurgeCSS as well when building for production.
 
  ### Steps
  
